@@ -15,8 +15,6 @@ public class HotelBooking {
     private String hotelName;
     private double pricePerNight;
     private int numberOfNights;
-    private int roomNumber;
-    private int testId;
 
     public HotelBooking() {
     }
