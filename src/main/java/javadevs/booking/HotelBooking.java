@@ -16,6 +16,7 @@ public class HotelBooking {
     private double pricePerNight;
     private int numberOfNights;
     private int roomNumber;
+    private int testId;
 
     public HotelBooking() {
     }
